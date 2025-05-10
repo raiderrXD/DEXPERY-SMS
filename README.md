@@ -13,6 +13,5 @@ Adım adım kurulum talimatları:
    pip install colorama
    pip install requests
    git clone https://github.com/raiderrXD/DEXPERY-SMS
-cd DEXPERY-SMS
    cd DEXPERY-SMS
    python DEXPERY-SMS
