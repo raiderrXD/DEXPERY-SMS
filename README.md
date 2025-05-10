@@ -1,9 +1,18 @@
-<h1 align="center">Merhaba Bu Bir SMS BOMBER TOOL UDUR</h1>
-<h3 align="center">Bu TOOL Sayesinde istediğiniz Kişiye Sürekli SMS Göndererek Sinir Edebilirsiniz</h3>
+# SMS BOOMBER
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-</p>
+Bu bir **SMS Bomber Tool**'udur. Bu araç sayesinde, insanları rahatsız edebilir ve sinir edebilirsiniz. Ancak, dikkatli olun! Bu tür araçlar sadece eğlencelik kullanılmalı ve yasalara uygun şekilde kullanılmalıdır.
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align = "left"> <a href = "https://www.python.org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40"/> </a> </p>
+## Kurulum ve Kullanım Talimatları
+
+Adım adım kurulum talimatları:
+
+1. Python ve gerekli paketleri yükleyin:
+   ```bash
+   pkg install Python
+   pkg install git
+   pip install colorama
+   pip install requests
+   git clone https://github.com/raiderrXD/DEXPERY-SMS
+cd DEXPERY-SMS
+   cd DEXPERY-SMS
+   python DEXPERY-SMS
